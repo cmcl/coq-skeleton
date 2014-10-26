@@ -1,7 +1,5 @@
 -R . Skeleton
-./SfLib.v
 ./CpdtTactics.v
-./Mod1.v
 ./ExtractHaskell.v
 ./ExtractOcaml.v
 ./Main.v
